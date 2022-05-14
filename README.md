@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**wjy7551376/wjy7551376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on BytesIO which is a Web3 data focus firm ...
 - 🌱 I’m currently learning Solidity/Python etc...
@@ -13,5 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: primebitcoind@outlook.com... 
 - 😄 Pronouns: Change the world with innovate tech and passionate. 
 - ⚡ Fun fact: It's exciting with the Web3 world and dive into the open community to learn/work with passionate people...
--->
-e
+
